@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-#define MAX_LINE_LEN 20
-
 int main() {
 	int c, check_first_char = 0, action = 0, action_value = 0;
 	int x_pos = 0, y_pos = 0;
